@@ -1,4 +1,4 @@
-Favorite color: Pink
+Favorite color: pink
 Favorite food: Pizza
 Favorite musician/band: Elissa
 Favorite movie: Titanic
